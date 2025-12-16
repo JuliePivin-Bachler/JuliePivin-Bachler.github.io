@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://JuliePivin-Bachler.github.io//sitemap.xml
