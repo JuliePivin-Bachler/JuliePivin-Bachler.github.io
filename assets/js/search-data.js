@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Alan Turing once wrote ‘We can see only a short distance ahead, but we can see plenty there that needs to be done’. Here you can find my contributions to exploring parts of that ‘plenty’.",
+          description: "Alan Turing once wrote ‘We can see only a short distance ahead, but we can see plenty there that needs to be done’. Here, you can find my contributions to exploring parts of that ‘plenty’.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Website under construction...",
+          description: "‘This is who I&#39;m meant to be, this is me.’ - The Greatest Showman",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
