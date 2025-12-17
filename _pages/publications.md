@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Published research articles in journals or conferences.
+description: 'We can see only a short distance ahead, but we can see plenty there that needs to be done.' A.M.Turing
 nav: true
 nav_order: 1
 ---
