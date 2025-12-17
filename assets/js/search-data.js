@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "‘We can see only a short distance ahead, but we can see plenty there that needs to be done.’ Alan Turing",
+          description: "Alan Turing once wrote ‘We can see only a short distance ahead, but we can see plenty there that needs to be done’. Here you can find my contributions to exploring parts of that ‘plenty’.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "‘What’s the point of even having a world if you’re not going to pass it on?’ Project Hail Mary, Andy Weir",
+          description: "‘What’s the point of even having a world if you’re not going to pass it on?’ - Project Hail Mary, Andy Weir. Here, you can explore the teaching and mentoring activities I have undertaken to pass on knowledge.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Website under construction...",
+          description: "‘To thine own self be true’ - Hamlet, William Shakespeare",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
