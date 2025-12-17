@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "‘To thine own self be true’ - Hamlet, William Shakespeare",
+          description: "Website under construction...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
