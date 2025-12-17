@@ -6,7 +6,7 @@ subtitle: <a href='https://www.uu.nl/staff/JRPivinBachler'>PhD Candidate in Cybe
 
 profile:
   align: right
-  image: pic_aboutme.jpg
+  image: pic_aboutme_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
