@@ -9,9 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-teaching",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "‘We can see only a short distance ahead, but we can see plenty there that needs to be done.’ Alan Turing",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-teaching",
           title: "Teaching",
-          description: "Lectures and students&#39; supervision.",
+          description: "‘What’s the point of even having a world if you’re not going to pass it on?’ Project Hail Mary, Andy Weir",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
