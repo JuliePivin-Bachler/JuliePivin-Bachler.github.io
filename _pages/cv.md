@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 3
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: Website under construction...
+description: ‘This is who I'm meant to be, this is me.’ - The Greatest Showman
 toc:
   sidebar: left
 ---
