@@ -67,13 +67,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational",
+      "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basic knowledge",
       "icon": ""
     }
   ],
