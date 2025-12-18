@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "‘What’s the point of even having a world if you’re not going to pass it on?’ - Project Hail Mary, Andy Weir. Here, you can explore the teaching and mentoring activities I have undertaken to pass on knowledge.",
+          description: "‘What’s the point of even having a world if you’re not going to pass it on?’ - Project Hail Mary, Andy Weir. Here, you can explore all the activaties related to teaching and mentoring that I have undertaken to pass on knowledge.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "‘This is who I&#39;m meant to be, this is me.’ - The Greatest Showman",
+          description: "Website under construction...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
