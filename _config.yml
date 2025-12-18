@@ -541,14 +541,11 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
+  - current position
+  - work experience
+  - degrees
+  - other education
+  - latest publications
   - skills
   - languages
   - interests
-  - references

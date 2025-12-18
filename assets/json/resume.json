@@ -10,7 +10,7 @@
       "countryCode": "the Netherlands"
     }
   },
-  "work": [
+  "current position": [ 
     {
       "name": "Department of Information and Computing Sciences, Utrecht University, the Netherlands",
       "position": "PhD Candidate in Cybernetics",
@@ -21,7 +21,17 @@
       "highlights": ["Highlights TODO"]
     }
   ],
-  "education": [
+  "work experience": [ 
+    {
+      "name": "TODO",
+      "position": "TODO",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Website under construction...",
+      "highlights": ["Highlights TODO"]
+    }
+  ],
+  "degrees": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
@@ -32,6 +42,20 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
+    }
+  ],
+  "other education": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "latest publications": [
