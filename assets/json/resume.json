@@ -16,13 +16,21 @@
       "url": "https://www.uu.nl/staff/JRPivinBachler",
       "startDate": "2022-11-01",
       "summary": "Expected graduation in November 2026.",
-      "highlights": ["Topic: Handling non-standard cases in computing from users' and models' perspective", "Promotor: Prof. dr. dr. Egon L. van den Broek", "In partnership with Honda Research Institute, Japan", "Includes teaching and supervising at the MSc and BSc level"]
+      "highlights": ["Topic: Handling non-standard cases in computing from users' and models' perspectives", "Promotor: Prof. dr. dr. Egon L. van den Broek", "In partnership with Honda Research Institute, Japan", "Includes teaching and supervising at the MSc and BSc levels"]
     }
   ],
   "work experience": [ 
     {
-      "name": "TODO",
-      "position": "TODO",
+      "name": "TODO name",
+      "position": "TODO position Cité de l'Espace",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Website under construction...",
+      "highlights": ["Highlights TODO"]
+    },
+    {
+      "name": "TODO name",
+      "position": "TODO position Workaway",
       "startDate": "2021",
       "endDate": "2022",
       "summary": "Website under construction...",
@@ -31,15 +39,16 @@
   ],
   "degrees": [
     {
-      "institution": "UPPSITECH engineering school, University Paul Sabatier, Toulouse, France",
-      "location": "Toulouse, France",
-      "url": "https://www.uzh.ch/",
-      "area": "Robotics and interactive systems",
-      "studyType": "Engineering",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "date": "2022-10",
+      "title": "Engineering diploma in Robotics and Interactive Systems",
+      "awarder": "UPSSITECH engineering school, University Paul Sabatier, Toulouse, France",
+      "summary": "Equivalent to a MSc diploma. Valedictorian."
+    },
+    {
+      "date": "2015-07",
+      "title": "Baccalauréat in Science",
+      "awarder": "Lapérouse Highschool, Albi, France",
+      "summary": "High school diploma, equivalent to A levels, obtained with highest honors."
     }
   ],
   "other education": [
@@ -79,19 +88,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "C++",
-        "Matlab"
-      ]
-    },
-    {
-      "name": "Softwares",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Word",
-        "Excel",
-        "Fusion360",
-        "TinkerCAD"
+        "Matlab",
+        "C++"        
       ]
     },
     {
@@ -100,7 +98,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Project management",
-        "Course coordinating",
+        "Course coordination",
         "Time management"
       ]
     }
@@ -135,7 +133,8 @@
         "Accessibility",
         "Data imbalance",
         "Model generalizability",
-        "Rule-based models in machine learning"
+        "Biosignal processing",
+        "Affect recognition"
       ]
     },
     {
@@ -145,9 +144,8 @@
         "Travelling",
         "Reading",
         "Caring for animals",
-        "Running",
-        "Doing crochet"
-      ]
+        "Running"      
+    ]
     }
   ]
 }
