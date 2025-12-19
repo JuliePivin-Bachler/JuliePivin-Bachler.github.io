@@ -11,7 +11,7 @@
   },
   "current position": [ 
     {
-      "name": "Department of Information and Computing Sciences, Utrecht University, the Netherlands",
+      "name": "Department of Information and Computing Sciences, Utrecht University, Utrecht, the Netherlands",
       "position": "PhD Candidate in Cybernetics",
       "url": "https://www.uu.nl/staff/JRPivinBachler",
       "startDate": "2022-11-01",
@@ -21,20 +21,20 @@
   ],
   "work experience": [ 
     {
-      "name": "TODO name",
-      "position": "TODO position Cité de l'Espace",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "Website under construction...",
-      "highlights": ["Highlights TODO"]
+      "name": "Cité de l'Espace, Toulouse, France",
+      "position": "Hostess in a scientific culture centre dedicated to space and astronomy",
+      "startDate": "2020-06",
+      "endDate": "2020-09",
+      "summary": "3-month long student job with diverse responsibilities including crowd management, visitor assistance, and cash register operation",
+      "highlights": ["Visitor flow management and coordination", "Adaptability in a fast-paced environment", "Multilingual communication"]
     },
     {
-      "name": "TODO name",
-      "position": "TODO position Workaway",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "Website under construction...",
-      "highlights": ["Highlights TODO"]
+      "name": "Ashley Park House, Nenagh, Ireland",
+      "position": "Polyvalent worker in a 4-star venue",
+      "startDate": "2019-02",
+      "endDate": "2019-05",
+      "summary": "Three-month long workaway opportunity to experience life abroad in a hotel and wedding venue. The job included guest reception, waitressing, gardening, and cooking.",
+      "highlights": ["Team collaboration", "Stress management", "Communication skills"]
     }
   ],
   "degrees": [
@@ -46,23 +46,23 @@
     },
     {
       "date": "2015-07",
-      "title": "Baccalauréat in Science",
+      "title": "Scientific baccalauréat diploma with specialization in mathematics",
       "awarder": "Lapérouse Highschool, Albi, France",
       "summary": "High school diploma, equivalent to A levels, obtained with highest honors."
     }
   ],
-  "other education": [
+  "other education and certificates": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "date": "2024-03",
+      "title": "TODO course on how to teach",
+      "awarder": "Utrecht University, Utrecht, the Netherlands",
+      "summary": "TODO N weeks course formation to know how to build a course with constructive alignment etc."
+    },
+    {
+      "date": "2021",
+      "title": "TOEIC",
+      "awarder": "UPSSITECH engineering school, University Paul Sabatier, Toulouse, France",
+      "summary": "English level certification. Score obtained TODO (equivalent to C1-C2 level)."
     }
   ],
   "latest publications": [
@@ -89,7 +89,19 @@
       "keywords": [
         "Python",
         "Matlab",
-        "C++"        
+        "R",
+        "ROS"               
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Overleaf",
+        "Excel",
+        "Inkscape",
+        "Fusion360"               
       ]
     },
     {
@@ -99,7 +111,8 @@
       "keywords": [
         "Project management",
         "Course coordination",
-        "Time management"
+        "Time management",
+        "Adaptability"
       ]
     }
   ],
