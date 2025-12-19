@@ -3,7 +3,7 @@
     "name": "Julie R. Pivin-Bachler",
     "image": "",
     "email": "julie@pivin-bachler.eu",
-    "summary": "CV incomplete... website under construction...",
+    "summary": "TODO. Website under construction...",
     "location": {
       "city": "Utrecht",
       "countryCode": "the Netherlands"
@@ -53,16 +53,16 @@
   ],
   "other education and certificates": [
     {
-      "date": "2024-03",
-      "title": "TODO course on how to teach",
+      "date": "2024-04",
+      "title": "University Teaching Qualification course",
       "awarder": "Utrecht University, Utrecht, the Netherlands",
-      "summary": "TODO N weeks course formation to know how to build a course with constructive alignment etc."
+      "summary": "9-weeks course constructed around three modules: (1) Designing a course, (2) Designing assessments and giving feedback, and (3) Teaching."
     },
     {
-      "date": "2021",
-      "title": "TOEIC",
-      "awarder": "UPSSITECH engineering school, University Paul Sabatier, Toulouse, France",
-      "summary": "English level certification. Score obtained TODO (equivalent to C1-C2 level)."
+      "date": "2021-02-11",
+      "title": "Test of English for International Communication (TOEIC)",
+      "awarder": "ETS Global",
+      "summary": "English level certification. Score obtained 980/990 (equivalent to C1-C2 level)."
     }
   ],
   "latest publications": [
