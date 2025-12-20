@@ -549,3 +549,12 @@ jsonresume:
   - skills
   - languages
   - interests
+
+jekyll_get_json:
+  - data: teaching
+    json: assets/json/teaching.json # it can also be an url
+
+jsonteaching:
+  - lecturer
+  - supervision
+  - evaluation and improvements
