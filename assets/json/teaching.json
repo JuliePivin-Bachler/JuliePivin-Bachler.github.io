@@ -3,10 +3,10 @@
     {
       "name": "MSc course UU",
       "url": "",
-      "position": "Lecturer, Advanced Quantitative Methods (INFOMQNM)",
+      "position": "Advanced Quantitative Methods (INFOMQNM)",
       "startDate": "2023",
       "endDate": "2026",
-      "summary": "",
+      "summary": "The course ...",
       "highlights": [
         "MSc level",
         "4 years in a row",
@@ -20,7 +20,7 @@
       "position": "Lecturer, Interaction Technology Innovation (INFOMITI)",
       "startDate": "2024",
       "endDate": "2025",
-      "summary": "",
+      "summary": "The course is ... ",
       "highlights": [
         "MSc level",
         "2 years in a row",
@@ -34,7 +34,7 @@
       "name": "MSc course UU",
       "url": "",
       "position": "Daily supervisor, Master thesis, Human-Computer Interaction",
-      "startDate": "2024-11",
+      "startDate": "2024-12",
       "endDate": "2025-07",
       "summary": "Daily supervision includes ... ",
       "highlights": ["Topic: ", "Paper"]
