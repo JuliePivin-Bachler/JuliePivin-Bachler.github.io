@@ -15,4 +15,4 @@ _data/citations.yml
 _pages/teaching.md
 assets/json/resume.json
 _layouts/teaching.liquid
-_layouts/awards.liquid
+_includes/resume/awards.liquid
