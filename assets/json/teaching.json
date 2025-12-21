@@ -71,25 +71,21 @@
   ],
   "evaluation and improvements": [
     {
-      "date": "2024-04",
-      "title": "University Teaching Qualification course",
-      "awarder": "Utrecht University, Utrecht, the Netherlands",
-      "summary": "9-week course constructed around three modules: (1) Designing a course, (2) Designing assessments and giving feedback, and (3) Teaching."
-    },
-    {
       "title": "Course evaluations",
-      "awarder": "Utrecht University, Utrecht, the Netherlands",
-      "summary": "TODO."
+      "url": "https://caracal.sites.uu.nl/?lang=en", 
+      "summary": "Each year, each course is evaluated by the students via Caracal. The students are asked to rate the course on a scale from 1 to 10, and to answer which elements of the course should be kept, and which should be changed. Based on this feedback from students, we adapt the course for the following year (e.g., adding a practical on a certain topic that the students judged a valuable addition)."
     },
     {
       "title": "Supervision evaluations",
-      "awarder": "Utrecht University, Utrecht, the Netherlands",
-      "summary": "TODO."
+      "summary": "After the graduation of each student (Master and Bachelor) I supervised, a survey I designed is sent to them by e-mail. They can answer a few questions about my supervision style, namely, about my flexibility, the frequency of meetings, the quality of feedback, and overall what they preferred about my supervision and what changes they would suggest. Based on the feedback I get, I can improve how I supervise theses for students."
     },
     {
       "title": "ChatGPT assignments",
-      "awarder": "TODO",
       "summary": "TODO"
+    },
+    {
+      "title": "University Teaching Qualification course",
+      "summary": "9-week course constructed around three modules: (1) Designing a course, (2) Designing assessments and giving feedback, and (3) Teaching."
     }
   ]
 }
