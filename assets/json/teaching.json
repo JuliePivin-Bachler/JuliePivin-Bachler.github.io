@@ -35,31 +35,40 @@
   ],
   "supervision": [
     {
-      "name": "MSc course UU",
+      "name": "Utrecht University, Utrecht, the Netherlands",
       "url": "",
       "position": "Daily supervisor, Master thesis, Human-Computer Interaction",
       "startDate": "2024-12",
       "endDate": "2025-07",
-      "summary": "Daily supervision includes ... ",
-      "highlights": ["Topic: ", "Paper"]
+      "summary": "Daily supervision includes weekly meetings and frequent formative feedback on research methods and written parts of the thesis.",
+      "highlights": [
+        "Thesis title: Speech Prediction And Real-time Suggestions (SPARS) for people who stutter",
+        "Topic: Stuttering affects millions of people worldwide and can negatively impact communication, mental health, and social well-being. Existing therapies and technologies often lack real-time, personalized support during everyday speech. This work explores an AI-based approach that provides immediate, tailored word suggestions while speaking, aiming to reduce stuttering and support more fluent communication.",
+        "The thesis is currently in the process of being turned into a paper; submission expected early 2026"
+      ]
     },
     {
-      "name": "MSc course UU",
-      "url": "",
-      "position": "Daily supervisor, Master thesis, COSC and AI",
+      "name": "Utrecht University, Utrecht, the Netherlands",
+      "position": "Daily (co-)supervisor, Master thesis, COSC and AI",
       "startDate": "2023-10",
       "endDate": "2025-03",
-      "summary": "Daily supervision includes ... Several daily supervisors",
-      "highlights": ["Topic: "]
+      "summary": "Daily supervision includes weekly meetings and frequent formative feedback on research methods and written parts of the thesis. This student had 2 daily supervisors.",
+      "highlights": [
+        "Thesis title: Learning Complementary Latent Representations of Unknown Dynamics using Predictive Encoder-Decoder Models in Control Systems",
+        "Topic: Many control systems contain hidden parameters that are difficult to learn from data alone. The thesis introduces a model that separates short-term and long-term information to better capture these hidden effects while limiting error accumulation over long sequences. The model is tested with a simulated race car scenario."
+      ]
     },
     {
-      "name": "BSc course UU",
+      "name": "Utrecht University, Utrecht, the Netherlands",
       "url": "",
       "position": "First supervisor, Bachelor thesis, Information Sciences",
       "startDate": "2024-11",
       "endDate": "2025-02",
-      "summary": "First supervision includes ... ",
-      "highlights": ["Topic: "]
+      "summary": "First supervision includes weekly meetings, frequent formative feedback on research methods and written parts of the thesis, and final grading.",
+      "highlights": [
+        "Thesis title: Deceptive Design Occupies Our Minds: How Dark Patterns Affect Cognitive Load",
+        "Topic: Dark patterns are deceptive design practices that can influence users to make unintended choices. This work explores how such interface elements may affect users’ cognitive load and decision-making."
+      ]
     }
   ],
   "evaluation and improvements": [
@@ -70,8 +79,20 @@
       "summary": "9-weeks course constructed around three modules: (1) Designing a course, (2) Designing assessments and giving feedback, and (3) Teaching."
     },
     {
+      "date": "2024-04",
+      "title": "Caracal evaluations",
+      "awarder": "Utrecht University, Utrecht, the Netherlands",
+      "summary": "TODO."
+    },
+    {
+      "date": "2024-04",
+      "title": "Supervision evaluations",
+      "awarder": "Utrecht University, Utrecht, the Netherlands",
+      "summary": "TODO."
+    },
+    {
       "date": "2021-02-11",
-      "title": "ChatGPT thingy",
+      "title": "ChatGPT assignments",
       "awarder": "TODO",
       "summary": "TODO"
     }
