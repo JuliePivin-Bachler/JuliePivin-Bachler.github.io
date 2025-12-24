@@ -26,15 +26,16 @@
   ],
   "work experience": [
     {
-      "name": "University of Sherbrooke, Sherbrooke, Québec, Canada",
-      "url": "https://www.usherbrooke.ca/",
-      "position": "Intern",
+      "name": "Department of Electrical and Computer Engineering, University of Sherbrooke, Sherbrooke, Québec, Canada",
+      "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
+      "position": "Research Intern in social robotics",
       "startDate": "2022-02",
       "endDate": "2022-08",
-      "summary": "6-month long research internship. TODO topic",
+      "summary": "6-month long research internship supervised jointly by the University of Sherbrooke and the University of Waterloo (Waterloo, Canada), focusing on how robot appearance and task complexity affect human–robot interaction, notably, user perception and stress through questionnaires and physiological data.",
       "highlights": [
-        "TODO",
-        "Website under construction"      
+        "Simulation-to-real deployment on humanoid and mobile robots (TALOS, TIAGO, MOVO)",
+        "User-study design",
+        "Physiological signal acquisition and processing"     
       ]
     },
     {
