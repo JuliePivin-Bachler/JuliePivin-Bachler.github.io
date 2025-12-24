@@ -26,6 +26,30 @@
   ],
   "work experience": [
     {
+      "name": "University of Sherbrooke, Sherbrooke, Québec, Canada",
+      "url": "https://www.usherbrooke.ca/",
+      "position": "Intern",
+      "startDate": "2022-02",
+      "endDate": "2022-08",
+      "summary": "6-month long research internship. TODO topic",
+      "highlights": [
+        "TODO",
+        "Website under construction"      
+      ]
+    },
+    {
+      "name": "University of Aarhus, Aarhus, Denmark",
+      "url": "https://international.au.dk/",
+      "position": "Intern",
+      "startDate": "2021-04",
+      "endDate": "2021-07",
+      "summary": "3-month long research internship. TODO topic",
+      "highlights": [
+        "TODO",
+        "Website under construction"      
+      ]
+    },
+    {
       "name": "Cité de l'Espace, Toulouse, France",
       "url": "https://en.cite-espace.com/",
       "position": "Hostess in a scientific culture centre dedicated to space and astronomy",
