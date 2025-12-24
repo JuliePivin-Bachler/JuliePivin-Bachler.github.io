@@ -38,15 +38,17 @@
       ]
     },
     {
-      "name": "University of Aarhus, Aarhus, Denmark",
-      "url": "https://international.au.dk/",
-      "position": "Intern",
+      "name": "Department of Electrical and Computer Engineering, University of Aarhus, Aarhus, Denmark",
+      "url": "https://ece.au.dk/en/",
+      "position": "Research Intern in robotics",
       "startDate": "2021-04",
       "endDate": "2021-07",
-      "summary": "3-month long research internship. TODO topic",
+      "summary": "3-month long research internship on interactive reinforcement learning for robotic manipulation, analyzing the impact of feedback frequency across robotic arms of varying complexity. This internship was conducted remotely because of COVID-19 restrictions.",
       "highlights": [
-        "TODO",
-        "Website under construction"      
+        "Remote research adaptability",
+        "Experimental design for feedback frequency analysis",
+        "Robotics simulation",
+        "Academic writing (see Publications)"      
       ]
     },
     {
