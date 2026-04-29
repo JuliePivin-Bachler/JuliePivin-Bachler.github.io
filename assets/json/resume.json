@@ -112,8 +112,9 @@
     },
     {
       "date": "2025-01",
-      "title": "Invited talk: TODO Title",
-      "awarder": "HCI Colloquium, Utrecht University"
+      "title": "Invited talk",
+      "awarder": "HCI Colloquium, Utrecht University",
+      "summary": "Automatic Ability-Based Design (autoABD), a novel framework for accessibility in technology"
     },
     {
       "date": "2023-12",
@@ -123,8 +124,9 @@
     
     {
       "date": "2023-03",
-      "title": "Invited talk: TODO Title",
-      "awarder": "HCI Colloquium, Utrecht University"
+      "title": "Invited talk",
+      "awarder": "HCI Colloquium, Utrecht University",
+      "summary": "'One for All, All for One': promoting accessibility in smart environments"
     }
   ],
   "skills": [
