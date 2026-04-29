@@ -97,22 +97,6 @@
       "summary": "English level certification. Score obtained 980/990 (equivalent to C1-C2 level)."
     }
   ],
-  "selected publications": [
-    {
-      "name": "Automatic Ability-Based Design (AutoABD): A Novel Framework for Accessible Technology Evaluated on Visual Abilities",
-      "publisher": "International Journal of Human–Computer Interaction",
-      "releaseDate": "2025-12-15",
-      "url": "https://doi.org/10.1080/10447318.2025.2596314",
-      "summary": "Introduction of autoABD, a framework that automatically adapts to its users' abilities. autoABD's feasibility is demonstrated on users with and without vision impairment, where users with a vision impairment are correctly identified and equivalent accessibility is achieved."
-    },
-    {
-      "name": "SIMBA: A robust and generalizable measure of data imbalance",
-      "publisher": "Patterns",
-      "releaseDate": "2025-10-21",
-      "url": "https://doi.org/10.1016/j.patter.2025.101395",
-      "summary": "This paper critically reviews all existing imbalance measures and introduces the Status of IMBAlance (SIMBA), a robust and generalizable imbalance measure. Indeed, SIMBA can be used on datasets with any number of classes, features, and samples, and accurately reflects classification difficulty stemming from imbalanced data."
-    }
-  ],
   "skills": [
     {
       "name": "Programming",
