@@ -97,7 +97,14 @@
       "summary": "English level certification. Score obtained 980/990 (equivalent to C1-C2 level)."
     }
   ],
-  "selected publications": [
+  "latest publications": [
+    {
+      "name": "Protocol to benchmark and evaluate the status of imbalance measure using correlation, data complexity, and ablation analyses",
+      "publisher": "STAR Protocols",
+      "releaseDate": "2026-06-19",
+      "url": "https://doi.org/10.1016/j.xpro.2026.104500",
+      "summary": "Protocol paper to reproduce the results or extend the study from the paper entitled 'SIMBA: A robust and generalizable measure of data imbalance'."
+    },
     {
       "name": "Automatic Ability-Based Design (AutoABD): A Novel Framework for Accessible Technology Evaluated on Visual Abilities",
       "publisher": "International Journal of Human–Computer Interaction",
