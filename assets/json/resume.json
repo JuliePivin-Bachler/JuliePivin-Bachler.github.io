@@ -99,35 +99,32 @@
   ],
   "academic involvement": [
     {
+      "date": "2026-04",
+      "title": "Peer reviewer",
+      "awarder": "Journal of Ambient Intelligence and Smart Environments"
+    },
+    {
       "date": "2025-08",
       "title": "Workshop Organization",
       "awarder": "IEEE RO-MAN 2025",
       "summary": "Co-organizer of the workshop FEER: Establishing a Foundation for Engineering true Empathetic Robots",
-      "url": "https://www.projects.science.uu.nl/ics-feer/#feer"
+      "url": "https://www.projects.science.uu.nl/ics-feer/"
     },
     {
-      "date": "0000-00",
-      "title": "TODO",
-      "awarder": "TODO",
-      "summary": "TODO"
+      "date": "2025-01",
+      "title": "Invited talk: TODO Title",
+      "awarder": "HCI Colloquium, Utrecht University"
     },
     {
-      "date": "0000-00",
-      "title": "TODO",
-      "awarder": "TODO",
-      "summary": "TODO"
+      "date": "2023-12",
+      "title": "Peer reviewer",
+      "awarder": "Nature Scientific Data"
     },
+    
     {
-      "date": "0000-00",
-      "title": "TODO",
-      "awarder": "TODO",
-      "summary": "TODO"
-    },
-    {
-      "date": "0000-00",
-      "title": "TODO",
-      "awarder": "TODO",
-      "summary": "TODO"
+      "date": "2023-03",
+      "title": "Invited talk: TODO Title",
+      "awarder": "HCI Colloquium, Utrecht University"
     }
   ],
   "skills": [
