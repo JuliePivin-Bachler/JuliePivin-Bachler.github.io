@@ -22,6 +22,8 @@ p { text-align: justify; }
 
 I'm a PhD candidate in the Cybernetics Group at Utrecht University's Department of Information and Computing Sciences, with an expected graduation in November 2026.
 
+---
+
 **What I Work On**
 
 My research focuses on **handling non-standard cases in computing**—both from users' and models' perspectives. In practice, this means I work at the intersection of **accessibility** (ensuring users with impairments aren't left behind by technology) and **machine learning robustness** (tackling data imbalance and generalizability challenges). A significant part of my work involves working with **biosignals for affect recognition**, which sits nicely at the crossroads of my broader interests in affective computing, human-machine interaction, machine learning, and social robotics.
