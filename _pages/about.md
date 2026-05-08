@@ -18,7 +18,6 @@ social: false # includes social icons at the bottom of the page
 p { text-align: justify; }
 </style>
 
----
 
 #### Hi, I'm Julie!
 
