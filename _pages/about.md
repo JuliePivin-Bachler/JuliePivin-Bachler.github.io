@@ -18,9 +18,6 @@ social: false # includes social icons at the bottom of the page
 p { text-align: justify; }
 .half-rule {
   width: 50%;
-  margin-left: 0;
-  border: none;
-  border-top: 1px solid #ccc;
 }
 </style>
 
