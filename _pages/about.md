@@ -18,6 +18,8 @@ social: false # includes social icons at the bottom of the page
 p { text-align: justify; }
 </style>
 
+---
+
 #### Hi, I'm Julie!
 
 I'm a PhD candidate in the Cybernetics Group at Utrecht University's Department of Information and Computing Sciences, with an expected graduation in November 2026.
