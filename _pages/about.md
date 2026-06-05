@@ -30,7 +30,7 @@ I'm a PhD candidate in the Cybernetics Group at Utrecht University's Department 
 
 **What I Work On**
 
-My research focuses on **handling non-standard cases in computing**—both from users' and models' perspectives. In practice, this means I work at the intersection of **accessibility** (ensuring users with impairments aren't left behind by technology) and **machine learning robustness** (tackling data imbalance and generalizability challenges). A significant part of my work involves working with **biosignals for affect recognition**, which sits nicely at the crossroads of my broader interests in affective computing, human-machine interaction, machine learning, and social robotics.
+My research focuses on **handling non-standard cases in computing**—both from users' and models' perspectives. In practice, this means I work at the intersection of **accessibility** (ensuring users with impairments aren't left behind by technology) and **machine learning robustness** (tackling data imbalance and generalizability challenges). My thesis included one project using **biosignals for affect recognition**, which sparked my interest as biosignals can address challenges across my broader interests in affective computing, human-machine interaction, machine learning, and social robotics, motivating me to explore this direction further.
 
 **How I Got Here**
 
@@ -42,7 +42,7 @@ At the core of everything I do is a simple goal: **conduct research with tangibl
 
 **Outside the Lab**
 
-When I'm not thinking about accessibility, biosignals, or biased datasets, you'll find me with a book, out for a run, crocheting something cozy, or spending time with my dog.
+When I'm not thinking about accessibility or biased datasets, you'll find me with a book, out for a run, crocheting something cozy, or spending time with my dog.
 
 ---
 
