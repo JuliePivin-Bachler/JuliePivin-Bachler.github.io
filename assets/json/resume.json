@@ -121,12 +121,17 @@
       "title": "Peer reviewer",
       "awarder": "Nature Scientific Data"
     },
-    
+    {
+      "date": "2023-06",
+      "title": "Poster presentation",
+      "awarder": "19th International Conference On Intelligent Environments",
+      "summary": "'One for All, All for One': A First Step Towards Universal Access with a Social Robot"
+    },
     {
       "date": "2023-03",
       "title": "Invited talk",
       "awarder": "HCI Colloquium, Utrecht University",
-      "summary": "'One for All, All for One': promoting accessibility in smart environments"
+      "summary": "Promoting accessibility in smart environments"
     }
   ],
   "skills": [
